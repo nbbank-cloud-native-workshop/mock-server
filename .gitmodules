@@ -1,0 +1,16 @@
+
+[submodule "api/shipping"]
+	path = api/shipping
+	url = https://github.com/DDD-China/shipping-service-contracts.git
+[submodule "api/inventory"]
+	path = api/inventory
+	url = https://github.com/DDD-China/inventory-service-contracts.git
+[submodule "api/order"]
+	path = api/order
+	url = https://github.com/DDD-China/order-service-contracts.git
+[submodule "api/payment"]
+	path = api/payment
+	url = https://github.com/DDD-China/payment-service-contracts.git
+[submodule "api/product"]
+	path = api/product
+	url = https://github.com/DDD-China/product-service-contracts.git
